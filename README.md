@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/92568427?s=400&u=4b1d08651731817db2cd08ae950212ad2cd78852&v=4" align="center" style="width: 50% height:50%          border-radius:50px;" />
-</div>  
+
   
 
 ### <div align="center">I'm Aakash, an emerging developer 👨‍💻  🚀</div>  

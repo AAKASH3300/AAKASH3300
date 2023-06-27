@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning JAVA   
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Web technology  
   
 
 - ⚡ Fun fact: I use tabs over spaces😉  
